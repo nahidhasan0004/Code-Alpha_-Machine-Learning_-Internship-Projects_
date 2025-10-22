@@ -1,5 +1,4 @@
 # Code-Alpha_-Machine-Learning_-Internship-Projects_
-# Code-Alpha_-Machine-Learning_-Internship-Projects
 Welcome to my repository! In this repository, I will upload the source code of machine learning projects that I complete during my Code Alpha internship.
 
 ![Image](https://github.com/user-attachments/assets/6cbee4d5-a912-4f43-9321-b3bcb81a4513)
