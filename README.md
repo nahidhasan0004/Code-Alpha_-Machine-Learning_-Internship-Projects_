@@ -1,7 +1,7 @@
 # Code-Alpha_-Machine-Learning_-Internship-Projects_
 Welcome to my repository! In this repository, I will upload the source code of machine learning projects that I complete during my Code Alpha internship.
 
-![Image](https://github.com/user-attachments/assets/6cbee4d5-a912-4f43-9321-b3bcb81a4513)
+![Image](https://github.com/user-attachments/assets/5d8a4a71-854a-48d5-90b9-6969e35b5452)
 ## **Projects Overview**
 ### **1. Credit Scoring Model**
 This project focuses on developing a credit scoring model to evaluate the creditworthiness of applicants. It employs various machine learning algorithms to predict the likelihood of default based on historical data.
